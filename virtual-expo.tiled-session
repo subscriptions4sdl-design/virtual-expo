@@ -1,0 +1,49 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "exterior.json": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 2794,
+                "y": 1869
+            }
+        },
+        "exterior.json#collides": {
+            "scaleInDock": 1
+        },
+        "exterior.json#exterior": {
+            "scaleInDock": 1
+        },
+        "section-a.json": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 1298,
+                "y": 1294
+            }
+        },
+        "section-a.json#collides": {
+            "scaleInDock": 1
+        },
+        "section-a.json#section-a": {
+            "scaleInDock": 1
+        }
+    },
+    "map.height": 150,
+    "map.lastUsedFormat": "json",
+    "map.width": 200,
+    "openFiles": [
+    ],
+    "project": "virtual-expo.tiled-project",
+    "property.type": "string",
+    "recentFiles": [
+    ],
+    "tileset.embedInMap": true
+}
